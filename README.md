@@ -24,6 +24,13 @@ https://dzone.com/articles/9-bene-ts-of-continuous-integration
 
 https://www.infoq.com/articles/seven-uservices-antipatterns
 
+[Building Microservices: Testing](https://www.oreilly.com/learning/building-microservices-testing)
+
+http://testdetective.com/microservices-testing/
+
+http://specto.io/blog/recipe-for-designing-building-testing-microservices
+
+
 
 ## SpringBoot
 [Quick Start DZone](https://dzone.com/articles/spring-boot-a-quick-start?edition=271881&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=dd%202017-02-17)
@@ -37,6 +44,14 @@ https://martinfowler.com/bliki/GivenWhenThen.html
 [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development)
 
 https://abstracta.us/2015/10/26/best-testing-practices-for-agile-teams-the-automation-pyramid/
+
+https://www.martinfowler.com/bliki/TestDouble.html
+
+https://plugins.gradle.org/plugin/org.ndrwdn.mountebank
+
+https://github.com/ndrwdn/mountebank-gradle
+
+https://gist.github.com/zedar/66a38d9548b7eeb0a491
 
 
 
