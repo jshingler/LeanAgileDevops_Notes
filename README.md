@@ -53,6 +53,15 @@ https://github.com/ndrwdn/mountebank-gradle
 
 https://gist.github.com/zedar/66a38d9548b7eeb0a491
 
+### Testing Quadrants
+
+http://lisacrispin.com/2011/11/08/using-the-agile-testing-quadrants/
+
+http://lisacrispin.com/downloads/AdpTestPlanning.pdf
+ 
+Original Work:
+http://www.exampler.com/old-blog/2003/08/22/#agile-testing-project-2
+
 
 
 
