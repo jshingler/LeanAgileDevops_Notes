@@ -19,6 +19,9 @@ https://specify.io/how-tos/concourse-ci-continious-integration-and-delivery-of-m
 
 https://dzone.com/articles/9-bene-ts-of-continuous-integration
 
+https://www.nginx.com/resources/library/containerizing-continuous-delivery-java/
+
+
 
 ## MicroServices
 
