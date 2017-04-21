@@ -33,6 +33,17 @@ http://testdetective.com/microservices-testing/
 
 http://specto.io/blog/recipe-for-designing-building-testing-microservices
 
+[Verifying Microservice Integrations with Contract Testing - Atlassian Summit 2016](https://www.youtube.com/watch?v=-6x6XBDf9sQ)
+
+[Pacts to the Rescue](https://www.infoq.com/presentations/pact)
+
+https://github.com/DiUS/pact-jvm
+
+[Swagger Mock Validator)(https://bitbucket.org/atlassian/swagger-mock-validator)
+
+[Pact](https://www.youtube.com/watch?v=h-79QmIV824)
+
+
 
 
 ## SpringBoot
