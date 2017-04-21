@@ -39,7 +39,7 @@ http://specto.io/blog/recipe-for-designing-building-testing-microservices
 
 https://github.com/DiUS/pact-jvm
 
-[Swagger Mock Validator)(https://bitbucket.org/atlassian/swagger-mock-validator)
+[Swagger Mock Validator](https://bitbucket.org/atlassian/swagger-mock-validator)
 
 [Pact](https://www.youtube.com/watch?v=h-79QmIV824)
 
