@@ -45,6 +45,10 @@ https://github.com/DiUS/pact-jvm
 
 [MicroSevices Testing overview IBM](https://www.youtube.com/watch?v=uUR8m8AdJvM)
 
+[Neil Ford Microservice](https://www.youtube.com/watch?v=pjN7CaGPFB4)
+
+[Sam Newman Microservices](https://www.youtube.com/watch?v=PFQnNFe27kU)
+
 
 
 ## SpringBoot
