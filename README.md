@@ -49,6 +49,8 @@ https://github.com/DiUS/pact-jvm
 
 [Sam Newman Microservices](https://www.youtube.com/watch?v=PFQnNFe27kU)
 
+[Experience API, Process API, System API](https://www.integsoft.cz/resources/files/anypoint-platform/API-led-connectivity-whitepaper.pdf)
+
 
 
 ## SpringBoot
