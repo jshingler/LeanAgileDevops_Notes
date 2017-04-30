@@ -87,4 +87,28 @@ http://www.exampler.com/old-blog/2003/08/22/#agile-testing-project-2
 ## Agile
 [Lego TDD InfoQ](https://www.infoq.com/presentations/tdd-lego)
 
+## Pair Programming
+
+https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF
+
+http://alistair.cockburn.us/Costs+and+benefits+of+pair+programming
+
+http://wiki.c2.com/?PairProgramming
+
+http://wiki.c2.com/?PairProgrammingBenefits
+
+http://wiki.c2.com/?PairProgrammingStatistics
+
+http://wiki.c2.com/?PairProgrammingMisconceptions
+
+http://www.unc.edu/~stotts/comp523/pairProg.ppt
+
+https://sewiki.iai.uni-bonn.de/_media/teaching/labs/xp/2012b/seminar/4-pairprogramming.pdf
+
+https://www.infoq.com/articles/introducing-pair-programming
+
+https://www.amazon.com/Pair-Programming-Illuminated-Laurie-Williams/dp/0201745763/ref=sr_1_1
+
+https://www.agilealliance.org/glossary/pairing/
+
 
