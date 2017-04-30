@@ -111,4 +111,6 @@ https://www.amazon.com/Pair-Programming-Illuminated-Laurie-Williams/dp/020174576
 
 https://www.agilealliance.org/glossary/pairing/
 
+https://sewiki.iai.uni-bonn.de/_media/teaching/labs/xp/2012b/seminar/4-pairprogramming.pdf
+
 
