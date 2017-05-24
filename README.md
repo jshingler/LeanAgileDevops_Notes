@@ -53,6 +53,14 @@ http://samnewman.io/talks/
 
 [Experience API, Process API, System API](https://www.integsoft.cz/resources/files/anypoint-platform/API-led-connectivity-whitepaper.pdf)
 
+### Swagger / Pact Testing
+
+https://www.youtube.com/watch?v=-6x6XBDf9sQ
+ 
+https://dzone.com/articles/keep-your-promises-contract-based-testing-for-jax
+ 
+https://github.com/reta/jax-rs-2.0-swagger-contract-tests
+ 
 
 
 ## SpringBoot
