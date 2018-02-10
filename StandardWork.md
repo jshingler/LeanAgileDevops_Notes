@@ -17,15 +17,19 @@ Intents:
 ## Application Architecture
 - Establish Deployment Startegy (IaaS, CaaS, PaaS, OnPrem)
 - Establish System Context and Dependencies (Other Systems)
+  - C4 Models - https://c4model.com/
   NOTE: This should be a living document and maintained as Product Documentation
 - Establsih High Level Architecture and Structure
 - Establish Protocols and Styles (HTTPS, REST, Messaging, ...)
 - Establish AuthN / AuthZ Style
 - Establish Security Levels and Strategy
+- Establish Performance Test Strategy / Plan
   
 ## Iteration 0
 - Establish Story / Issue Management System access (Jira)
 - Establish Source Code Repository access (Git)
+  - Configure hook to validate commit message contains Story / Issue Mgmt Identifier
+  - Configure hook to trigger Continuous Integration
 - Define Source Control Strategy (Master or Branch, Gitflow, ... )
 - Establish Binary Repository access (Nexus)
 - Establish Static Analysis Capabilities (SonarQube, +Plugins)
@@ -56,11 +60,27 @@ Intents:
 - Use Test Driven Development (TDD) Process during implementation.
 - Unit Test and Component Test Coverage >= 70%
   The Intent of Unit Tests and Component Tests are for the benefit of the engineer during the development process.
+  - Stub and Mock as appropriate (Consider tools like http://www.mbtest.org/
 - Automate Acceptance Criteria (ATDD)
   NOTE: This is not the same as unit tests.
   ATDD is to prove that the Story Card Criteria have been met.
-- 
+  - Stub and Mock as appropriate (Consider tools like http://www.mbtest.org/
+- API Testing (if appropriate)
+  - https://docs.pact.io/
+  
+  
+## Iteration
+- Implement and Execute Performance Tests
+- Implement and Execute Security Tests
 
+## Release
+- Pre-Release Dependency Validation
+  Is the proper version of the depend components deployed
+- Release Validation (Smoke Tests)
+
+## Run / Operations
+- __ Monitoring and Alerting __
+- Log Aggregations (Splunk / Elk)
 
 
 
