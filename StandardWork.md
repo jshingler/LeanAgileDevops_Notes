@@ -33,6 +33,7 @@ Intents:
 - Determine Unit Testing and Component Testing Frameworks (Junit, Jasmine, ...)
 - Code simplest possible "Hello World" Application, Service, Component
 - Write Build Process Build, Unit Test, Component Test, Static Analysis Tasks (Gradle, Maven, NMake, ...)
+  - Stub and Mock as appropriate
 - Create Basic Continuous Integration Pipeline  (Concourse, Jenkins Pipeline)
   - Get Source Code (Prefer Webhook, Polling for change acceptable)
   - Compile
