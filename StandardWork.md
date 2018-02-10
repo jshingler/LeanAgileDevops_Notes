@@ -17,6 +17,7 @@ Intents:
 ## Application Architecture
 - Establish Deployment Startegy (IaaS, CaaS, PaaS, OnPrem)
 - Establish System Context and Dependencies (Other Systems)
+  NOTE: This should be a living document and maintained as Product Documentation
 - Establsih High Level Architecture and Structure
 - Establish Protocols and Styles (HTTPS, REST, Messaging, ...)
 - Establish AuthN / AuthZ Style
@@ -25,6 +26,7 @@ Intents:
 ## Iteration 0
 - Establish Story / Issue Management System access (Jira)
 - Establish Source Code Repository access (Git)
+- Define Source Control Strategy (Master or Branch, Gitflow, ... )
 - Establish Binary Repository access (Nexus)
 - Establish Static Analysis Capabilities (SonarQube, +Plugins)
 - Establish Security Analysis Capabilities (SonaTypeIQ, ...)
