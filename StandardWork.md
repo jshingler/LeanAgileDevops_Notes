@@ -14,8 +14,34 @@ Intents:
   Misc:
   - Story cards should be small enough to complete in 3 days or less
   
+## Application Architecture
+- Establish Deployment Startegy (IaaS, CaaS, PaaS, OnPrem)
+- Establish System Context and Dependencies (Other Systems)
+- Establsih High Level Architecture and Structure
+- Establish Protocols and Styles (HTTPS, REST, Messaging, ...)
+- Establish AuthN / AuthZ Style
+- Establish Security Levels and Strategy
   
-  
+## Iteration 0
+- Establish Story / Issue Management System access (Jira)
+- Establish Source Code Repository access (Git)
+- Establish Binary Repository access (Nexus)
+- Establish Static Analysis Capabilities (SonarQube, +Plugins)
+- Establish Security Analysis Capabilities (SonaTypeIQ, ...)
+- Determine Unit Testing and Component Testing Frameworks (Junit, Jasmine, ...)
+- Code simplest possible "Hello World" Application, Service, Component
+- Write Build Process Build, Unit Test, Component Test, Static Analysis Tasks (Gradle, Maven, NMake, ...)
+- Create Basic Continuous Integration Pipeline  (Concourse, Jenkins Pipeline)
+  - Get Source Code (Prefer Webhook, Polling for change acceptable)
+  - Compile
+  - Unit Test
+  - Component Test
+  - Static Analysis
+  - Security Analysis
+  - Pipeline Must be Source Controlled too
+  - Publish to Binary Repository
+- Establish plan for managing sensitive data like passwords (Vault, CredHub, ...)
+
 ## Daily
 
 - Pull a Story Card
@@ -32,6 +58,14 @@ Intents:
   ATDD is to prove that the Story Card Criteria have been met.
 - 
 
+
+
+
+## 3 Amigo Considerations
+- What are the security requirements (AuthZ)
+- What are the Performance requirements (is 30 Second response oaky?)
+- Are there Monitoring and Alerting considerations 
+- Assume Nothing
 
   
   
