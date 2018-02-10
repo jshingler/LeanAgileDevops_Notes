@@ -58,10 +58,10 @@ Intents:
   - May be for a group of related cards
   - 3 Days or less of work
 - Use Test Driven Development (TDD) Process during implementation.
-- Unit Test and Component Test Coverage >= 70%
+- Unit Test and Component Test Coverage >= 70%  
   The Intent of Unit Tests and Component Tests are for the benefit of the engineer during the development process.
   - Stub and Mock as appropriate (Consider tools like http://www.mbtest.org/
-- Automate Acceptance Criteria (ATDD)
+- Automate Acceptance Criteria (ATDD)  
   NOTE: This is not the same as unit tests.
   ATDD is to prove that the Story Card Criteria have been met.
   - Stub and Mock as appropriate (Consider tools like http://www.mbtest.org/
