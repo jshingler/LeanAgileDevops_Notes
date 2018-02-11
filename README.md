@@ -70,6 +70,9 @@ https://github.com/reta/jax-rs-2.0-swagger-contract-tests
 
 
 ## Testing
+
+[TDD vs BDD Explained (REALLY GOOD) Lego idea](https://www.joecolantonio.com/2014/07/29/unit-tdd-and-bdd-testing-whats-the-difference/)
+
 https://martinfowler.com/bliki/GivenWhenThen.html
 
 [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development)
