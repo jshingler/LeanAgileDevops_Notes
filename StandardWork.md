@@ -55,9 +55,9 @@ QA and above should be pull based from the Binary Repository
   (Database, other components, ...)
   - Post Deployment Validation - Smoke Test  
   Depending upon Component Dependencies, ... require standing up Mock and Stubbedd dependencies (MonteBank)
-  - Establish Monitoring and Alerting Process and Tooling  
+- Establish Monitoring and Alerting Process and Tooling  
   Monitoring and Alerting should be start in development, don't wait for Stage or Production.  Should be considered as 3 Amigos.
-  - Establish Performance Testing Process and Tooling  
+- Establish Performance Testing Process and Tooling  
   Criteria / Performance allocations should be establish
 
 ## Daily
