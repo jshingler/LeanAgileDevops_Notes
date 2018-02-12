@@ -58,7 +58,8 @@ QA and above should be pull based from the Binary Repository
 - Establish Monitoring and Alerting Process and Tooling  
   Monitoring and Alerting should be start in development, don't wait for Stage or Production.  Should be considered as 3 Amigos.
 - Establish Performance Testing Process and Tooling  
-  Criteria / Performance allocations should be establish
+  Criteria / Performance allocations should be establish for each layer of the solution and component / service (API)
+- Establish Business Metrics expectations
 
 ## Daily
 
@@ -90,7 +91,10 @@ QA and above should be pull based from the Binary Repository
 - Release Validation (Smoke Tests)
 
 ## Run / Operations
-- __ Monitoring and Alerting __
+- Monitoring and Alerting  
+Production is #1, Consider Implications to team velocity, allocating points per iteration to production support.
+- Analyze Business Metrics (Product Owner)  
+Feeds into Prioritization and Backlog
 - Log Aggregations (Splunk / Elk)
 
 
@@ -99,6 +103,7 @@ QA and above should be pull based from the Binary Repository
 - What are the security requirements (AuthZ)
 - What are the Performance requirements (is 30 Second response oaky?)
 - Are there Monitoring and Alerting considerations 
+- Are there Business Metrics that should be captured
 - Assume Nothing
 
   
