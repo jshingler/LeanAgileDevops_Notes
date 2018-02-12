@@ -15,9 +15,9 @@ Intents:
   - Story cards should be small enough to complete in 3 days or less
   
 ## Application Architecture
-- Establish Deployment Startegy (IaaS, CaaS, PaaS, OnPrem)
+- Establish Deployment Startegy (IaaS, CaaS, PaaS, OnPrem) 
 - Establish System Context and Dependencies (Other Systems)
-  - C4 Models - https://c4model.com/
+  - C4 Models - https://c4model.com/  
   NOTE: This should be a living document and maintained as Product Documentation
 - Establsih High Level Architecture and Structure
 - Establish Protocols and Styles (HTTPS, REST, Messaging, ...)
@@ -55,7 +55,10 @@ QA and above should be pull based from the Binary Repository
   (Database, other components, ...)
   - Post Deployment Validation - Smoke Test  
   Depending upon Component Dependencies, ... require standing up Mock and Stubbedd dependencies (MonteBank)
-  - 
+  - Establish Monitoring and Alerting Process and Tooling  
+  Monitoring and Alerting should be start in development, don't wait for Stage or Production.  Should be considered as 3 Amigos.
+  - Establish Performance Testing Process and Tooling  
+  Criteria / Performance allocations should be establish
 
 ## Daily
 
