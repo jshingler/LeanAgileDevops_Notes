@@ -92,12 +92,11 @@ QA and above should be pull based from the Binary Repository
 
 ## Run / Operations
 - Monitoring and Alerting  
-Production is #1, Consider Implications to team velocity, allocating points per iteration to production support.
+Production is #1, Consider Implications to team velocity, allocating points per iteration to production support.  
+Feeds into Technical Debt, Backlog, and Roadmap
 - Analyze Business Metrics (Product Owner)  
 Feeds into Prioritization and Backlog
 - Log Aggregations (Splunk / Elk)
-
-
 
 ## 3 Amigo Considerations
 - What are the security requirements (AuthZ)
