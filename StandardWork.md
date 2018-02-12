@@ -48,6 +48,14 @@ Intents:
   - Pipeline Must be Source Controlled too
   - Publish to Binary Repository
 - Establish plan for managing sensitive data like passwords (Vault, CredHub, ...)
+- Create Basic Continuous Delivery / Deployment Pipeline (Concourse, Jenkins Pipeline)  
+If the team likes, Dev can be pushed automatically.  In order to not interrupt work anyone has in process,
+QA and above should be pull based from the Binary Repository
+  - Pre Deployment Validation of Component Dependencies before Deploying a component  
+  (Database, other components, ...)
+  - Post Deployment Validation - Smoke Test  
+  Depending upon Component Dependencies, ... require standing up Mock and Stubbedd dependencies (MonteBank)
+  - 
 
 ## Daily
 
